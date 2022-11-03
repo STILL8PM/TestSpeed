@@ -48,8 +48,8 @@ export default class SpeedChart extends PureComponent {
             <div style={{ width: 600, }}>
                 <div style={{ display: 'flex', justifyContent: "space-around" }}>
 
-                    <span>上行网速：</span>
-                    <span>上行网速：</span>
+                    <span>上行网速：{}</span>
+                    <span>上行网速：{}</span>
                 </div>
             </div>
         </div>
